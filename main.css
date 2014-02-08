@@ -1,0 +1,102 @@
+nav p {
+    margin-left: 60px;
+    color: grey;
+    font-size: 14px;
+    font-family:sans-serif;
+    float:left;
+}
+
+header ul {
+    list-style: none;
+    display:inline;
+    font-family:sans-serif;
+    float:left;
+    margin-left: 300px;
+}
+
+header a {
+    text-decoration:none;
+    color: grey;
+    font-size: 12px;
+}
+
+header li {
+    font-family:sans-serif;
+    display:inline;
+    margin-right: 20px;
+
+}
+
+.logo {
+    margin-top: 60px;
+    margin-left: 360px
+    
+
+}
+
+h1 {
+    font-size: 50px;
+    font-family:serif;
+    margin-left: 80px;
+
+}
+
+h5 {
+    font-size: 20px;
+    margin-left: 90px;
+
+}
+
+.boxes {
+    margin: 0 auto;
+    height: 200px;
+    width: 700px;
+
+}
+
+
+
+.box {
+    float: left;
+    width: 160px;
+    margin-left:20px;
+    margin-top: 15px;
+    /*margin: 15px auto 15px;*/
+    
+    border: 1px solid #e8e8e8;
+    border-radius: 5px;
+    padding: 10px;
+    
+    box-shadow: 0 0 5px #efefef;
+    background: -webkit-gradient(linear, left top, left bottom, from(#fff), to(#efefef));
+      background: -moz-linear-gradient(top,  #fff,  #efefef);
+      display: inline;
+
+}
+
+.box img {
+    width: 105px;
+    height: 88px;
+    padding-top: 10px;
+    padding-left: 20px;
+
+}
+
+.box a {
+    padding-left: 48px;
+
+}
+
+.box p {
+    padding-left: 12px;
+
+}
+
+.highlight {
+    color: red;
+    padding-left: 10px;
+    font-size: 18px;
+    
+
+
+}
